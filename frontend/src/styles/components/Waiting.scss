@@ -8,15 +8,18 @@
 }
 
 .waiting-wrapper {
+  height: 50vh;
+  margin-top: 10rem;
+  margin-bottom: 8rem;
   display: flex;
   justify-content: center;
   align-items: center;
 
   .cog {
     animation: rotate360 3s linear infinite;
-
+    margin-right: 1rem;
     * {
-      font-size: 20rem;
+      font-size: 4rem;
       color: $theme-primary;
       padding-top: 18px;
       margin: 0;

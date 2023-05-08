@@ -1,0 +1,4 @@
+Backend
+****************************
+truffle migrate
+npm run typeorm migration:run

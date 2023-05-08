@@ -9,7 +9,7 @@ type UserType = {
 
 const users: UserType[] = [
   {
-    name: "John",
+    name: "user1",
     citizenshipNumber: "9860777906",
     email: "john@gmail.com",
     password: "$2b$10$6sdkothEwAguhA0FytsGF.gcWPmTDB5hosif6rGX5FFJK8PdBgRHu",
@@ -17,7 +17,7 @@ const users: UserType[] = [
     verified: true,
   },
   {
-    name: "Liza",
+    name: "user2",
     citizenshipNumber: "9860777907",
     email: "liza@gmail.com",
     password: "$2b$10$70yLw0dPhAD0py/iiGUInO7kklGUmbMfa5BmXKGCXEID1ufTsqSQ6",
@@ -25,7 +25,7 @@ const users: UserType[] = [
     verified: true,
   },
   {
-    name: "Ben",
+    name: "user3",
     citizenshipNumber: "9860777908",
     email: "ben@gmail.com",
     password: "$2b$10$1DsQFSqUs3ufyDDRBd9wYuU5i9ihbnYR4GCYJsI3IzGXamwFWnr4S",
